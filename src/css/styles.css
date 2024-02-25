@@ -5,4 +5,5 @@
   |============================
 */
 @import url('./reset.css');
-
+@import url('./styles-search-images.css');
+@import url('./styles-loader.css');
